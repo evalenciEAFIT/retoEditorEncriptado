@@ -99,6 +99,7 @@ int main() {
 ```
 
 ### Rúbrica de Evaluación
+Como sugenrencia esta NCurses, pero es opcional, es como referencia, si usan otra libreria o no usan libreria, la nota no afecta
 
 | Criterio                           | Excelente (5)                                                        | Bueno (4)                                                           | Aceptable (3)                                                    | Insuficiente (1-2)                                                |
 |------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
