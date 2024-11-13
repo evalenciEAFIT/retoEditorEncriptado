@@ -99,14 +99,14 @@ int main() {
 ```
 
 ### Rúbrica de Evaluación
-Como sugenrencia esta NCurses, pero es opcional, es como referencia, si usan otra libreria o no usan libreria, la nota no afecta
+Como sugerencia esta NCurses, ES OPCIONAL, es como referencia, si usan otra libreria o no usan libreria, la nota no afecta
 
 | Criterio                           | Excelente (5)                                                        | Bueno (4)                                                           | Aceptable (3)                                                    | Insuficiente (1-2)                                                |
 |------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
 | **Encriptación y Desencriptación** | Seguridad y ejecución sin errores.                                   | Correcta, con mínimos errores.                                      | Funciona en la mayoría de casos, aunque con fallas leves.       | No funciona o no es segura.                                       |
 | **Interfaz de Usuario (Ncurses)**  | Simula bien la experiencia de edición tipo *vi*                      | Interfaz adecuada, con controles básicos.                           | Interfaz limitada, pero permite edición básica.                 | La interfaz es poco funcional.                                    |
-| **Guardado y Carga del Archivo**   | Guarda y carga encriptado sin fallas.                                | Guarda y carga con errores menores.                                 | Guarda y carga, pero tiene problemas de funcionamiento.         | No guarda correctamente o carga con errores críticos.             |
+| **Guardado y Carga del Archivo** Opcional   | Guarda y carga encriptado sin fallas.                                | Guarda y carga con errores menores.                                 | Guarda y carga, pero tiene problemas de funcionamiento.         | No guarda correctamente o carga con errores críticos.             |
 | **Calidad del Código**             | Bien estructurado y documentado.                                     | Claro, mayormente organizado y documentado.                         | Funcional, aunque desorganizado o sin suficientes comentarios.  | Desorganizado, poco claro y sin documentación suficiente.         |
-| **Uso de Librerías (Ncurses)**     | Uso eficiente de Ncurses y Crypto++.                                 | Uso adecuado de Ncurses y Crypto++.                                 | Uso mínimo de librerías y Ncurses limitado.                     | No usa Ncurses o Crypto++ adecuadamente.                          |
+| **Uso de Librerías (Ncurses)** Opcional    | Uso eficiente de Ncurses y Crypto++.                                 | Uso adecuado de Ncurses y Crypto++.                                 | Uso mínimo de librerías y Ncurses limitado.                     | No usa Ncurses o Crypto++ adecuadamente.                          |
 
 Esta rúbrica mide el cumplimiento de los objetivos y la calidad en la implementación de encriptación, la interfaz de usuario y el guardado de archivos encriptados.
